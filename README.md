@@ -65,6 +65,8 @@ print(arr)
 ```
 
 ## Output:
+![Screenshot 2023-12-31 140815](https://github.com/Sanjaichitra/Sorting-Algorithm/assets/144870518/4ffe7515-1e4d-4b28-941b-cd73bca632bd)
+![Screenshot 2023-12-31 141020](https://github.com/Sanjaichitra/Sorting-Algorithm/assets/144870518/dc573f7f-1b34-4377-a0b0-5c58b38c320f)
 
 
 ## Result:
